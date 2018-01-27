@@ -7,28 +7,34 @@ X-WR-CALNAME:ICO
 X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:ICO
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180118
-DTEND;VALUE=DATE:20180119
-DTSTAMP:20180127T142201Z
-UID:4agog0kp9bu89e6lkbvtpghgtr@google.com
-CREATED:20180127T142142Z
-DESCRIPTION:官网：<a href="https://www.google.com/url?q=https%3A%2F%2Fgems.org
- &amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHRtXmLPCk_0QMc-wAr4fh8cVB5nw" target="
- _blank">https://gems.org</a>&nbsp\;<br><br>销售金额：荷兰式拍卖&nbsp\;<br><br>需要提前注册：
- 是&nbsp\;<br><br>推荐程度：建议参与&nbsp\;<br><br>介绍： Gems要做的事情，简单来讲是一种众包网络平台，能使平台上的雇
- 主通过发布任务 的方式，用人类智能来执行目前计算机尚不足以胜任的任务，于此同时，那些接受任务并完成的人会得到相应的回报。&nbsp\;<br><br>
- 关注微信公众号【言币】，获取更多优质项目推荐！&nbsp\;
-LAST-MODIFIED:20180127T142142Z
+DTSTART;VALUE=DATE:20180130
+DTEND;VALUE=DATE:20180131
+DTSTAMP:20180127T142402Z
+UID:B14A928A-20E1-412E-89D9-A08ACFEAF517
+CREATED:20180127T142315Z
+DESCRIPTION:官网：https://gems.org \n\n销售金额：荷兰式拍卖 \n\n需要提前注册：是 \n\n推荐程度：建议参与 \
+ n\n介绍： Gems要做的事情，简单来讲是一种众包网络平台，能使平台上的雇主通过发布任务 的方式，用人类智能来执行目前计算机尚不足以胜任的任务，于此
+ 同时，那些接受任务并完成的人会得到相应的回报。 \n\n关注微信公众号【言币】，获取更多优质项目推荐！ 
+LAST-MODIFIED:20180127T142315Z
 LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:xxx
+SUMMARY:[众筹]Gems (区块链服务)\n
 TRANSP:TRANSPARENT
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:AUTOMATIC
+BEGIN:VALARM
+ACTION:AUDIO
+TRIGGER:-PT15H
+X-WR-ALARMUID:16AA1047-EB28-4C6E-9BD1-C3563DE22051
+UID:16AA1047-EB28-4C6E-9BD1-C3563DE22051
+X-APPLE-DEFAULT-ALARM:TRUE
+ATTACH;VALUE=URI:Basso
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20180131T010000Z
 DTEND:20180131T020000Z
-DTSTAMP:20180127T142201Z
+DTSTAMP:20180127T142402Z
 UID:839C7378-D56D-491C-B753-0407ECB6D306
 CREATED:20180127T141730Z
 DESCRIPTION:官网：https://gems.org \n\n销售金额：荷兰式拍卖 \n\n需要提前注册：是 \n\n推荐程度：建议参与 \
@@ -45,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20180131T010000Z
 DTEND:20180131T020000Z
-DTSTAMP:20180127T142201Z
+DTSTAMP:20180127T142402Z
 UID:BBA9EC5C-D8EC-4DDE-AB66-53F3A1DA45AE
 CREATED:20180127T141619Z
 DESCRIPTION:
@@ -60,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20180129T120000Z
 DTEND:20180129T140000Z
-DTSTAMP:20180127T142201Z
+DTSTAMP:20180127T142402Z
 UID:0kkf3frpucgekhf9008i1tj2b9@google.com
 CREATED:20180127T140503Z
 DESCRIPTION:官网: https://dadi.cloud/zh_hans <br><br><br>目标金额: $27\,500\,000 
@@ -74,81 +80,9 @@ SUMMARY:[众筹]dadi (云服务)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180130
-DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T142201Z
-UID:48r1bs0ds5qp6upnv4lbg3b17u@google.com
-CREATED:20180127T141252Z
-DESCRIPTION:<p>官网：<a href="https://www.google.com/url?q=https%3A%2F%2Fgems.
- org%2F%3Futm_source%3Dcoinabc&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHCe0BL6N_
- FW31aXHMseG7VQQRXGQ">https://gems.org</a></p><p>销售金额：荷兰式拍卖</p><p>需要提前注册：是<b
- r></p><p>推荐程度：建议参与<br></p><p>介绍： Gems要做的事情，简单来讲是一种众包网络平台，能使平台上的雇主通过发布任务的方式，
- 用人类智能来执行目前计算机尚不足以胜任的任务，于此同时，那些接受任务并完成的人会得到相应的回报。<br></p><p>关注微信公众号【言币】，获取更多
- 优质项目推荐！<br></p>
-LAST-MODIFIED:20180127T141252Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:erv
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180130
-DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T142201Z
-UID:3h1j4u5qe0das2cn2mcr08p4vp@google.com
-CREATED:20180127T141128Z
-DESCRIPTION:官网: <a href="https://www.google.com/url?q=https%3A%2F%2Fdadi.cl
- oud%2Fzh_hans&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNG427fmi0k36e4joDpdwG9poZE
- pAw">https://dadi.cloud/zh_hans</a><br><br>目标金额: $27\,500\,000<br><br>需要提前注
- 册: 是<br><br>描述: DADI是一个全球性的，分散的云平&lt\;200b&gt\;&lt\;200b&gt\;台，专注于提供网络服务，帮助
- 您建立，扩展和发展您的数字产品。<br><br>关注微信公众号【言币】，获取更多优质项目推荐！
-LAST-MODIFIED:20180127T141134Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:asadad222
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180130
-DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T142201Z
-UID:3cq6ccffflcsa3lagflo1381no@google.com
-CREATED:20180127T141115Z
-DESCRIPTION:官网: https://dadi.cloud/zh_hans<br><br>目标金额: $27\,500\,000<br><b
- r>需要提前注册: 是<br><br>描述: DADI是一个全球性的，分散的云平&lt\;200b&gt\;&lt\;200b&gt\;台，专注于提供
- 网络服务，帮助您建立，扩展和发展您的数字产品。<br><br>关注微信公众号【言币】，获取更多优质项目推荐！
-LAST-MODIFIED:20180127T141115Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:asadad
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180130
-DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T142201Z
-UID:1qhg2kefpji5153fagsf0l78bg@google.com
-CREATED:20180127T140317Z
-DESCRIPTION:官网：<a href="https://www.google.com/url?q=https%3A%2F%2Fgems.org
- &amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHRtXmLPCk_0QMc-wAr4fh8cVB5nw" target="
- _blank">https://gems.org</a>&nbsp\;<br><br>销售金额：荷兰式拍卖&nbsp\;<br><br>需要提前注册：
- 是&nbsp\;<br><br>推荐程度：建议参与&nbsp\;<br><br>介绍： Gems要做的事情，简单来讲是一种众包网络平台，能使平台上的雇
- 主通过发布任务 的方式，用人类智能来执行目前计算机尚不足以胜任的任务，于此同时，那些接受任务并完成的人会得到相应的回报。&nbsp\;<br><br>
- 关注微信公众号【言币】，获取更多优质项目推荐！&nbsp\;
-LAST-MODIFIED:20180127T141000Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:[众筹]Gems (区块链服务)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180129T140000Z
 DTEND:20180129T160000Z
-DTSTAMP:20180127T142201Z
+DTSTAMP:20180127T142402Z
 UID:3886oua87vc5hkt7k8ok7i5qtk@google.com
 CREATED:20180127T135122Z
 DESCRIPTION:官网：https://sale.coinfi.com/?utm_source=coinabc\n\n交易所：https://w
@@ -163,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180129
 DTEND;VALUE=DATE:20180130
-DTSTAMP:20180127T142201Z
+DTSTAMP:20180127T142402Z
 UID:55pe3gl6bqteq9lp4kfrph9g7j@google.com
 CREATED:20180127T135036Z
 DESCRIPTION:官方网站: http://chinapex.com.cn/products/apex\n\n目标： $11\,000\,000
@@ -179,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180201
 DTEND;VALUE=DATE:20180202
-DTSTAMP:20180127T142201Z
+DTSTAMP:20180127T142402Z
 UID:0d84ocdejiji464802d209j0nl@google.com
 CREATED:20180127T125118Z
 DESCRIPTION:官网：https://gems.org \n\n销售金额：荷兰式拍卖 \n需要提前注册：是 \n推荐程度：建议参与 介绍： \
