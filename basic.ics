@@ -9,13 +9,13 @@ X-WR-CALDESC:ICO
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180131
 DTEND;VALUE=DATE:20180201
-DTSTAMP:20180127T141402Z
+DTSTAMP:20180127T141443Z
 UID:5td280q49tomgnt6e2cue03cda@google.com
 CREATED:20180127T140814Z
-DESCRIPTION:官网: https://dadi.cloud/zh_hans <br><br><br>目标金额: $27\,500\,000 
- <br><br><br>需要提前注册: 是 <br><br><br>描述: DADI是一个全球性的，分散的云平&lt\;200b&gt\;&lt\;2
- 00b&gt\;台，专注于提供网络服务，帮助您建立，扩展和发展您的数字产品。 <br><br><br>关注微信公众号【言币】，获取更多优质项目推荐！
-LAST-MODIFIED:20180127T141326Z
+DESCRIPTION:官网: https://dadi.cloud/zh_hans <br>目标金额: $27\,500\,000 <br>需要提前
+ 注册: 是 <br>描述: DADI是一个全球性的，分散的云平&lt\;200b&gt\;&lt\;200b&gt\;台，专注于提供网络服务，帮助您建
+ 立，扩展和发展您的数字产品。 <br>关注微信公众号【言币】，获取更多优质项目推荐！
+LAST-MODIFIED:20180127T141437Z
 LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -23,9 +23,25 @@ SUMMARY:twbwrtb
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20180129T120000Z
+DTEND:20180129T140000Z
+DTSTAMP:20180127T141443Z
+UID:0kkf3frpucgekhf9008i1tj2b9@google.com
+CREATED:20180127T140503Z
+DESCRIPTION:官网: https://dadi.cloud/zh_hans <br><br><br>目标金额: $27\,500\,000 
+ <br><br><br>需要提前注册: 是 <br><br><br>描述: DADI是一个全球性的，分散的云平&lt\;200b&gt\;&lt\;2
+ 00b&gt\;台，专注于提供网络服务，帮助您建立，扩展和发展您的数字产品。 <br><br><br>关注微信公众号【言币】，获取更多优质项目推荐!
+LAST-MODIFIED:20180127T141402Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[众筹]dadi (云服务)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180130
 DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T141402Z
+DTSTAMP:20180127T141443Z
 UID:48r1bs0ds5qp6upnv4lbg3b17u@google.com
 CREATED:20180127T141252Z
 DESCRIPTION:<p>官网：<a href="https://www.google.com/url?q=https%3A%2F%2Fgems.
@@ -44,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180130
 DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T141402Z
+DTSTAMP:20180127T141443Z
 UID:3h1j4u5qe0das2cn2mcr08p4vp@google.com
 CREATED:20180127T141128Z
 DESCRIPTION:官网: <a href="https://www.google.com/url?q=https%3A%2F%2Fdadi.cl
@@ -62,7 +78,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180130
 DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T141402Z
+DTSTAMP:20180127T141443Z
 UID:3cq6ccffflcsa3lagflo1381no@google.com
 CREATED:20180127T141115Z
 DESCRIPTION:官网: https://dadi.cloud/zh_hans<br><br>目标金额: $27\,500\,000<br><b
@@ -78,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180130
 DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T141402Z
+DTSTAMP:20180127T141443Z
 UID:1qhg2kefpji5153fagsf0l78bg@google.com
 CREATED:20180127T140317Z
 DESCRIPTION:官网：<a href="https://www.google.com/url?q=https%3A%2F%2Fgems.org
@@ -95,43 +111,9 @@ SUMMARY:[众筹]Gems (区块链服务)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20180129T120000Z
-DTEND:20180129T140000Z
-DTSTAMP:20180127T141402Z
-UID:7mvqenh6h0uc5jessj31g4kecr@google.com
-CREATED:20180127T140619Z
-DESCRIPTION:官网: <a href="https://www.google.com/url?q=https%3A%2F%2Fdadi.cl
- oud%2Fzh_hans&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNG427fmi0k36e4joDpdwG9poZE
- pAw">https://dadi.cloud/zh_hans</a> <br><br>目标金额: $27\,500\,000 <br><br>需要提
- 前注册: 是 <br><br>描述: DADI是一个全球性的，分散的云平&lt\;200b&gt\;&lt\;200b&gt\;台，专注于提供网络服务
- ，帮助您建立，扩展和发展您的数字产品。 <br><br>关注微信公众号【言币】，获取更多优质项目推荐!
-LAST-MODIFIED:20180127T140619Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:[众筹]dadi (云服务)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180129T120000Z
-DTEND:20180129T140000Z
-DTSTAMP:20180127T141402Z
-UID:0kkf3frpucgekhf9008i1tj2b9@google.com
-CREATED:20180127T140503Z
-DESCRIPTION:官网: https://dadi.cloud/zh_hans <br><br>目标金额: $27\,500\,000 <br>
- <br>需要提前注册: 是 <br><br>描述: DADI是一个全球性的，分散的云平&lt\;200b&gt\;&lt\;200b&gt\;台，专注
- 于提供网络服务，帮助您建立，扩展和发展您的数字产品。 <br><br>关注微信公众号【言币】，获取更多优质项目推荐!
-LAST-MODIFIED:20180127T140503Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:[众筹]dadi (云服务)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20180129T140000Z
 DTEND:20180129T160000Z
-DTSTAMP:20180127T141402Z
+DTSTAMP:20180127T141443Z
 UID:3886oua87vc5hkt7k8ok7i5qtk@google.com
 CREATED:20180127T135122Z
 DESCRIPTION:官网：https://sale.coinfi.com/?utm_source=coinabc\n\n交易所：https://w
@@ -146,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180129
 DTEND;VALUE=DATE:20180130
-DTSTAMP:20180127T141402Z
+DTSTAMP:20180127T141443Z
 UID:55pe3gl6bqteq9lp4kfrph9g7j@google.com
 CREATED:20180127T135036Z
 DESCRIPTION:官方网站: http://chinapex.com.cn/products/apex\n\n目标： $11\,000\,000
@@ -162,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180201
 DTEND;VALUE=DATE:20180202
-DTSTAMP:20180127T141402Z
+DTSTAMP:20180127T141443Z
 UID:0d84ocdejiji464802d209j0nl@google.com
 CREATED:20180127T125118Z
 DESCRIPTION:官网：https://gems.org \n\n销售金额：荷兰式拍卖 \n需要提前注册：是 \n推荐程度：建议参与 介绍： \
