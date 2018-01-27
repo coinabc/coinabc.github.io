@@ -7,9 +7,66 @@ X-WR-CALNAME:ICO
 X-WR-TIMEZONE:Asia/Shanghai
 X-WR-CALDESC:ICO
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180130
+DTEND;VALUE=DATE:20180131
+DTSTAMP:20180127T121601Z
+UID:5nncq8runqa6edu3k6sqfmqvca@google.com
+CREATED:20180127T121211Z
+DESCRIPTION:官网：<a href="https://www.google.com/url?q=https%3A%2F%2Fgems.org
+ %2F%3Futm_source%3Dcoinabc&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHCe0BL6N_FW3
+ 1aXHMseG7VQQRXGQ" target="_blank">https://gems.org</a><br><br>销售金额：荷兰式拍卖<br
+ ><br>需要提前注册：是<br><br>推荐程度：建议参与<br><br>介绍：&nbsp\;Gems要做的事情，简单来讲是一种众包网络平台，能使平
+ 台上的雇主通过发布任务的方式，用人类智能来执行目前计算机尚不足以胜任的任务，于此同时，那些接受任务并完成的人会得到相应的回报。<br><br>关注微信
+ 公众号【言币】，获取更多优质项目推荐！
+LAST-MODIFIED:20180127T121544Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[众筹]Gems (区块链服务)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T140000Z
+DTEND:20180129T160000Z
+DTSTAMP:20180127T121601Z
+UID:1vcdlbk4ae3gqeoeupu80hrhkb@google.com
+CREATED:20180127T120837Z
+DESCRIPTION:官网：<a href="https://www.google.com/url?q=https%3A%2F%2Fsale.coi
+ nfi.com%2F%3Futm_source%3Dcoinabc&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNEqvV5
+ fxodGT2vV0V4S-H6JCP1OJQ" target="_blank">https://sale.coinfi.com/?utm_sourc
+ e=coinabc</a><br><br>交易所：<a href="https://www.google.com/url?q=https%3A%2F%
+ 2Fwww.kucoin.com&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNHQPhxwb5X5K9Cge-RsjnDz
+ PZiRQw" target="_blank">https://www.kucoin.com</a><br><br>关注微信公众号【言币】，获取更多优
+ 质项目推荐！
+LAST-MODIFIED:20180127T121526Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[交易所] CoinFi (COFI) 上线 Kucoin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20180129T120000Z
+DTEND:20180129T140000Z
+DTSTAMP:20180127T121601Z
+UID:5vbpl1ka2pcvv5sk41h6cnk884@google.com
+CREATED:20180127T120042Z
+DESCRIPTION:官网:&nbsp\;<a href="https://www.google.com/url?q=https%3A%2F%2Fd
+ adi.cloud%2Fzh_hans&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFqlzCx3tVTH6DNOwtOC
+ XlC-j2iPg" target="_blank">https://dadi.cloud/zh_hans</a><br><br>目标金额: $27\
+ ,500\,000<br><br>需要提前注册: 是<br><br>描述: DADI是一个全球性的，分散的云平​​台，专注于提供网络服务，帮助您建立，
+ 扩展和发展您的数字产品。<br><br>关注微信公众号【言币】，获取更多优质项目推荐！
+LAST-MODIFIED:20180127T121516Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[众筹]dadi (云服务)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20180129
 DTEND;VALUE=DATE:20180130
-DTSTAMP:20180127T121502Z
+DTSTAMP:20180127T121601Z
 UID:2d8hr4csjtml1a9k50nifroup6@google.com
 CREATED:20180127T115619Z
 DESCRIPTION:官方网站: <a href="https://www.google.com/url?q=http%3A%2F%2Fchinap
@@ -23,57 +80,6 @@ LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:[众筹]APEX (区块链服务)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20180130
-DTEND;VALUE=DATE:20180131
-DTSTAMP:20180127T121502Z
-UID:5nncq8runqa6edu3k6sqfmqvca@google.com
-CREATED:20180127T121211Z
-DESCRIPTION:官网：<a href="https://gems.org/?utm_source=coinabc">https://gems.
- org</a><br>销售金额：荷兰式拍卖<br>需要提前注册：是<br>推荐程度：建议参与<br>介绍：&nbsp\;Gems要做的事情，简单来讲是
- 一种众包网络平台，能使平台上的雇主通过发布任务的方式，用人类智能来执行目前计算机尚不足以胜任的任务，于此同时，那些接受任务并完成的人会得到相应的回报。
- <br><br><br>关注微信公众号【言币】，获取更多优质项目推荐！
-LAST-MODIFIED:20180127T121211Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:[众筹]Gems (区块链服务)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180129T120000Z
-DTEND:20180129T140000Z
-DTSTAMP:20180127T121502Z
-UID:5vbpl1ka2pcvv5sk41h6cnk884@google.com
-CREATED:20180127T120042Z
-DESCRIPTION:官网:&nbsp\;<a href="https://www.google.com/url?q=https%3A%2F%2Fd
- adi.cloud%2Fzh_hans&amp\;sa=D&amp\;usd=2&amp\;usg=AFQjCNFqlzCx3tVTH6DNOwtOC
- XlC-j2iPg" target="_blank">https://dadi.cloud/zh_hans</a><br>目标金额: $27\,500
- \,000<br>需要提前注册: 是<br>描述: DADI是一个全球性的，分散的云平​​台，专注于提供网络服务，帮助您建立，扩展和发展您的数字产品。
- <br><br>关注微信公众号【言币】，获取更多优质项目推荐！
-LAST-MODIFIED:20180127T120906Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:[众筹]dadi (云服务)
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20180129T140000Z
-DTEND:20180129T160000Z
-DTSTAMP:20180127T121502Z
-UID:1vcdlbk4ae3gqeoeupu80hrhkb@google.com
-CREATED:20180127T120837Z
-DESCRIPTION:官网：<a href="https://sale.coinfi.com/?utm_source=coinabc">https:
- //sale.coinfi.com/?utm_source=coinabc</a><br>交易所：<a href="https://www.kucoi
- n.com">https://www.kucoin.com</a><br><br>关注微信公众号【言币】，获取更多优质项目推荐！
-LAST-MODIFIED:20180127T120837Z
-LOCATION:
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:[交易所] CoinFi (COFI) 上线 Kucoin
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
