@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 echo 'start'
+
+git pull
 pwd
 cd /root/guowei/coinabc.github.io
 wget https://calendar.google.com/calendar/ical/7je3t02hd7r2oei4c0osmgs8fo%40group.calendar.google.com/private-ee632e40105552ff877304e2af938a72/basic.ics
